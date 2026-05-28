@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View, Image } from 'react-native'
 import React from 'react'
 
-export default function FnacyCards() {
+export default function FancyCards() {
   return (
     <View>
       <Text style = {styles.headingText}>Trending Places</Text>
